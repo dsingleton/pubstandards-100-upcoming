@@ -53,7 +53,7 @@ tr.highlight td {
 
 .map-icon {
   padding-left: 19px;
-  background: url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png);
+  background: url(red_9e89c9328c5bfa7253aac77c512f4743.png);
   background-position: 0px -1497px;
 }
 
@@ -152,7 +152,7 @@ div.blue-button {
 .get-directions {
   font-size: 11px;
   padding-left: 19px;
-  background: url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png);
+  background: url(red_9e89c9328c5bfa7253aac77c512f4743.png);
   background-position: 0px -1497px;
 }
 
@@ -1748,7 +1748,7 @@ img.avatar {
 
 .profile #my-stuff-rss {
   padding-left: 17px;
-  background: url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png) 0 -403px no-repeat;
+  background: url(red_9e89c9328c5bfa7253aac77c512f4743.png) 0 -403px no-repeat;
   cursor: pointer;
   position: relative;
 }
@@ -2036,7 +2036,7 @@ a.up-add-btn {
 }
 
 .my-account .remove-btn {
-  background: url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png);
+  background: url(red_9e89c9328c5bfa7253aac77c512f4743.png);
   background-position: -497px -448px;
   padding-left: 15px;
 }
@@ -3394,7 +3394,7 @@ td.eventrow {
   padding: 0px 8px 0px 0px;
   margin: 0px 2px 0px 0px;
   border: 0px;
-  background: url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png) 0px -541px no-repeat; 
+  background: url(red_9e89c9328c5bfa7253aac77c512f4743.png) 0px -541px no-repeat; 
 }
 
 /* this is exactly the same as the userlist watchlist count */
@@ -4025,7 +4025,7 @@ div.bylineReport .reportProblem {
 }
 
 .up-venue-follower.following-venue .up-add-btn {
-  background: url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png);
+  background: url(red_9e89c9328c5bfa7253aac77c512f4743.png);
   background-position: -501px -448px;
 }
 
@@ -4230,7 +4230,7 @@ form .placeSearch {
 #up-detail-tabs ul {overflow:hidden;zoom:1;font-family:arial;color:#333;font-size:92%;font-weight:bold;margin-bottom:-1px;position:relative; }
 #up-detail-tabs li { float:left;text-align:center;margin-right:4px; background-position:0 -1772px; border: 1px solid #E0E0E0; border-bottom:0px solid #fff; background:url(http://l.yimg.com/jb/images/blue_7db571cdb278a7608b432c434e62cc1b.png); height: 29px; }
 #up-detail-tabs .body { border: 1px solid white; border-bottom: 0px; vertical-align: middle; height: 14px; padding: 7px; float: left; }
-#up-detail-tabs .map-icon { padding: 0px 10px 0px 11px; background:url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png); background-position: 0px -1497px; }
+#up-detail-tabs .map-icon { padding: 0px 10px 0px 11px; background:url(red_9e89c9328c5bfa7253aac77c512f4743.png); background-position: 0px -1497px; }
 #up-detail-tabs .selected { background: #FFF; border-bottom: 1px solid white; }
 
 #addphotos {border:1px solid #E0E0E0;margin-top:5px;margin-right:20px;font-size: 90%;font-color:#666;padding:15px 10px 15px 60px; background:url(http://l.yimg.com/jb/images/blue_7db571cdb278a7608b432c434e62cc1b.png);background-position:5px -1200px;width:180px;} 

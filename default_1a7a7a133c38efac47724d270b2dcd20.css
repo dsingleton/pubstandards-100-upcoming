@@ -19,7 +19,7 @@ p.hurryup {font-size:100%; color:#333; margin-bottom:0.5em;}
 .up-ghostText {color:#999; font-style:italic;}
 .up-inline {display:inline;}
 .up-noDisplay {display:none;}
-.up-palette1 {background:url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png) no-repeat top left;}
+.up-palette1 {background:url(red_9e89c9328c5bfa7253aac77c512f4743.png) no-repeat top left;}
 .up-palette2 {background:url(http://l.yimg.com/jb/images/blue_7db571cdb278a7608b432c434e62cc1b.png) no-repeat top left;} 
 
 /* site-wide header */
@@ -1032,7 +1032,7 @@ td.fill {
 }
 
 .subscribe-menu .rss-link {
-  background: url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png) no-repeat 3px -356px;
+  background: url(red_9e89c9328c5bfa7253aac77c512f4743.png) no-repeat 3px -356px;
 }
 
 .subscribe-menu .pipe-config-link {

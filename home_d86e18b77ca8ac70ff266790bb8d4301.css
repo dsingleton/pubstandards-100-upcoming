@@ -176,7 +176,7 @@
 /* use a span for users icon since background-image on IE is broken when span extends over 2 lines */
 /* can't use a regular img tag since we have a sprite */
 td.usersIcon {
-  background: url(http://l.yimg.com/jb/images/red_9e89c9328c5bfa7253aac77c512f4743.png) 0px -541px no-repeat; 
+  background: url(red_9e89c9328c5bfa7253aac77c512f4743.png) 0px -541px no-repeat; 
   width: 11px;
 }
 
